@@ -28,4 +28,4 @@ Any changes to this policy will be posted on this page.
 
 制定日 / Effective: 2026-10-15
 
-[めくり / Mekuri](./)
+[めくり / Mekuri](index.md)

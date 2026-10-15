@@ -16,4 +16,4 @@ For bug reports, please include your device, iOS version and app version (Settin
 
 ---
 
-[めくり / Mekuri](./) · [プライバシーポリシー / Privacy Policy](privacy)
+[めくり / Mekuri](index.md) · [プライバシーポリシー / Privacy Policy](privacy.md)

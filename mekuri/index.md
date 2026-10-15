@@ -4,5 +4,5 @@
 
 An iPhone and iPad viewer for folders of photos and book scans, turned page by page, with right-to-left reading, two-page spreads and a landscape scroll view.
 
-- [プライバシーポリシー / Privacy Policy](privacy)
-- [サポート / Support](support)
+- [プライバシーポリシー / Privacy Policy](privacy.md)
+- [サポート / Support](support.md)

@@ -1,3 +1,5 @@
 title: katsusand
 description: Apps by katsusand
 lang: ja
+exclude:
+  - README.md
